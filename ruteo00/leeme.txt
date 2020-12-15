@@ -1,0 +1,6 @@
+entradas:
+epcs.csv
+circuitos.csv
+
+salida:
+ruteocircuitos.csv
